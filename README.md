@@ -1,4 +1,4 @@
-# Movie Recommendation System with Boltzmann Machines
+# Fraud Detector using Self Organizing Maps
 Welcome to our Fraud Detector system! This project leverages the power of Self Organizing Maps (SOMs) to predict fraudulent customers based on their credit card application data.
 
 ## Table of Contents
